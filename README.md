@@ -112,4 +112,4 @@ Your Name
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/nexx](https://github.com/mandeep210405/nexx)
+Project Link: [https://github.com/Mandeep210405/nexx](https://github.com/mandeep210405/nexx)
