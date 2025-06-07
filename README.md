@@ -57,19 +57,19 @@ nexx/
 
 ## 🚀 Live Demo
 
-Visit the live website: [Nexx Educational Platform](https://nexx.vercel.app)
+Visit the live website: https://lemonchiffon-nightingale-121179.hostingersite.com/
 
 ## 💻 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nexx.git
+git clone https://github.com/Mandeep210405/nexx.git
 ```
 
 2. Set up your web server (Apache) and point it to the project directory
 
 3. Import the database:
-   - Navigate to the `main database to import` directory
+   - Navigate to the `eduhub_db.sql` file
    - Import the SQL file into your MySQL database
 
 4. Configure the database connection:
@@ -98,23 +98,12 @@ git clone https://github.com/yourusername/nexx.git
 - File upload security
 - Access control for different user roles
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/mandeep210405)
+- Email: mandeep210405@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -123,4 +112,4 @@ Your Name
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/nexx](https://github.com/yourusername/nexx)
+Project Link: [https://github.com/yourusername/nexx](https://github.com/mandeep210405/nexx)
