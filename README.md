@@ -102,7 +102,7 @@ git clone https://github.com/Mandeep210405/nexx.git
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/mandeep210405)
+- GitHub: [@mandeep210405](https://github.com/mandeep210405)
 - Email: mandeep210405@gmail.com
 
 ## 🙏 Acknowledgments
