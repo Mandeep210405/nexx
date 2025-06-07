@@ -57,7 +57,7 @@ nexx/
 
 ## 🚀 Live Demo
 
-Visit the live website: https://lemonchiffon-nightingale-121179.hostingersite.com/
+Visit the live website: [View It](https://lemonchiffon-nightingale-121179.hostingersite.com/)
 
 ## 💻 Installation
 
